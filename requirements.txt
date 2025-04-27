@@ -1,0 +1,12 @@
+asgiref==3.8.1
+Django==5.2
+Faker==37.1.0
+numpy==2.2.5
+pandas==2.2.3
+psycopg2-binary==2.9.10
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+sqlparse==0.5.3
+typing_extensions==4.13.2
+tzdata==2025.2
